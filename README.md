@@ -1,6 +1,6 @@
 # Veterinaria-Dr-Pet
 
-_Proyecto de práctica formativa de aplicación web en JavaEE, Javascript, Jsp, MVC, utilizando herramientas como Bootstrap, Spring Boot, con BBDD remota MySQL- Desarrollado en Eclipse._
+_Proyecto de práctica formativa de aplicación web en JavaEE, Javascript, Jsp, MVC, JPA, utilizando herramientas como Bootstrap, Spring Boot, con BBDD remota MySQL- Desarrollado en Eclipse._
 
 ## Comenzando 🚀
 
