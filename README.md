@@ -20,11 +20,11 @@ _1- Consulta a base de datos en contenedor MySQL
 3- Documentación (README.md)_
 
 
-### Pre-requisitos 📋
+## Pre-requisitos 📋
 
 _Para visualizar correctamente la aplicación debes utilizar un servidor local, un navegador tipo chrome, firefox o similar, y una versión de java 8 o superiores. Además es necesario que tu IDE tenga las configuraciones de Spring, Maven, y Springboot(springtools 4 en eclipse)_
 
-### Ejecución 🔧
+## Ejecución 🔧
 
 _Comienza descargando y descomprimiendo la carpeta del proyecto en tu carpeta de workspace, ábrelo, conéctalo a tu base de datos en application properties y córrelo como spring boot application.
 Ocupa un servidor local tipo tomcat o similar. Cuando la aplicación esté iniciada ábre localhost 8080 en tu navegador (si utilizas eclipse) ésta desplegará la vista home en tu navegador.
